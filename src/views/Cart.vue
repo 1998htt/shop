@@ -1,7 +1,6 @@
 <template>
   <div class="home">
-    <router-link to='/cart'>购物车</router-link>
-    
+    购物车  
   </div>
 </template>
 
